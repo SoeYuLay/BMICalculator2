@@ -22,6 +22,6 @@ class BottomButton extends StatelessWidget {
           ),
         ),
 
-    );
+          );
   }
 }
